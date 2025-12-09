@@ -1,10 +1,10 @@
-# 🌍 Tech Naija Rise (TNR)
+# TNR
 
 **Building Software for Nigeria, by Nigeria.**
 
 ---
 
-## 🤝 How to Contribute
+## How to Contribute
 
 We’re open to contributors who share our vision. If you care about solving problems at scale and building practical tools, you’re welcome here.
 
